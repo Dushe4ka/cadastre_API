@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn[standart]
+sqlalchemy
+requests
+sqladmin
+pytest
+pytest-cov
