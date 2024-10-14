@@ -20,7 +20,7 @@ Pytest
 Установка и запуск проекта
 
 Клонируйте репозиторий на локальный компьютер
-git clone git@github.com:StrekozJulia/cadastre-api.git
+git clone git@github.com:Dushe4ka/cadastre-API.git
 Перейдите в папку с проектом
 сd cadastre-api
 Создайте и запустите контейнер
